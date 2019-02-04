@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iBach/Classes/Modules/Playlists/PlaylistsTableViewController.swift"
+            timestampString = "570387023.974198"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "PlaylistsTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iBach.PlaylistsTableViewController.__allocating_init(style: __C.UITableViewStyle) -&gt; iBach.PlaylistsTableViewController"
+                  moduleName = "iBach"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/goranalkovic/Documents/GitHub/iBach/iBach/iBach/iBach/Classes/Modules/Playlists/PlaylistsTableViewController.swift"
+                  timestampString = "570208524.324195"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iBach.PlaylistsTableViewController.init(style: __C.UITableViewStyle) -&gt; iBach.PlaylistsTableViewController"
+                  moduleName = "iBach"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/goranalkovic/Documents/GitHub/iBach/iBach/iBach/iBach/Classes/Modules/Playlists/PlaylistsTableViewController.swift"
+                  timestampString = "570208524.33846"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "41">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iBach.PlaylistsTableViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; iBach.PlaylistsTableViewController"
+                  moduleName = "iBach"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/goranalkovic/Documents/GitHub/iBach/iBach/iBach/iBach/Classes/Modules/Playlists/PlaylistsTableViewController.swift"
+                  timestampString = "570208524.342399"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iBach.PlaylistsTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; iBach.PlaylistsTableViewController"
+                  moduleName = "iBach"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/goranalkovic/Documents/GitHub/iBach/iBach/iBach/iBach/Classes/Modules/Playlists/PlaylistsTableViewController.swift"
+                  timestampString = "570208524.3461469"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "49">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iBach.PlaylistsTableViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;iBach.PlaylistsTableViewController&gt;"
+                  moduleName = "iBach"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/goranalkovic/Documents/GitHub/iBach/iBach/iBach/iBach/Classes/Modules/Playlists/PlaylistsTableViewController.swift"
+                  timestampString = "570208524.348393"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iBach.PlaylistsTableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;iBach.PlaylistsTableViewController&gt;"
+                  moduleName = "iBach"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/goranalkovic/Documents/GitHub/iBach/iBach/iBach/iBach/Classes/Modules/Playlists/PlaylistsTableViewController.swift"
+                  timestampString = "570208524.35086"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "41">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iBach.PlaylistsTableViewController.__deallocating_deinit"
+                  moduleName = "iBach"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/goranalkovic/Documents/GitHub/iBach/iBach/iBach/iBach/Classes/Modules/Playlists/PlaylistsTableViewController.swift"
+                  timestampString = "570208524.353102"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iBach/Classes/Modules/Playlists/PlaylistDetailsTableViewController.swift"
+            timestampString = "570387023.974429"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "PlaylistDetailsTableViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iBach/Classes/Modules/Playlists/PlaylistDetailTableViewCell.swift"
+            timestampString = "570212633.947147"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "PlaylistDetailTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iBach.PlaylistDetailTableViewCell.imageViewCoverArt.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "iBach"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/goranalkovic/Documents/GitHub/iBach/iBach/iBach/iBach/Classes/Modules/Playlists/PlaylistDetailTableViewCell.swift"
+                  timestampString = "570211525.05092"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "114">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iBach.PlaylistDetailTableViewCell.imageViewCoverArt.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "iBach"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/goranalkovic/Documents/GitHub/iBach/iBach/iBach/iBach/Classes/Modules/Playlists/PlaylistDetailTableViewCell.swift"
+                  timestampString = "570211525.0598609"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iBach.PlaylistDetailTableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; iBach.PlaylistDetailTableViewCell"
+                  moduleName = "iBach"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/goranalkovic/Documents/GitHub/iBach/iBach/iBach/iBach/Classes/Modules/Playlists/PlaylistDetailTableViewCell.swift"
+                  timestampString = "570211525.064813"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "57">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iBach.PlaylistDetailTableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;iBach.PlaylistDetailTableViewCell&gt;"
+                  moduleName = "iBach"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/goranalkovic/Documents/GitHub/iBach/iBach/iBach/iBach/Classes/Modules/Playlists/PlaylistDetailTableViewCell.swift"
+                  timestampString = "570211525.068687"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "50">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iBach/Classes/Modules/Playlists/PlaylistDetailTableViewCell.swift"
+            timestampString = "570212633.947251"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "awakeFromNib()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iBach/Classes/Modules/Playlists/PlaylistDetailTableViewCell.swift"
+            timestampString = "570212633.947328"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "setSelected(_:animated:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iBach/Classes/Modules/Playlists/PlaylistDetailsTableViewController.swift"
+            timestampString = "570387023.974803"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iBach/Classes/Modules/Playlists/PlaylistDetailsTableViewController.swift"
+            timestampString = "570387023.975011"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "178"
+            endingLineNumber = "178"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iBach/Classes/Modules/Playlists/PlaylistDetailsTableViewController.swift"
+            timestampString = "570387023.975198"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "145"
+            endingLineNumber = "145"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iBach/Classes/Modules/Playlists/PlaylistsTableViewController.swift"
+            timestampString = "570387023.975472"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "loadData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iBach/Classes/Modules/Playlists/PlaylistsTableViewController.swift"
+            timestampString = "570387023.97562"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "loadData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iBach/Classes/Modules/Playlists/PlaylistsTableViewController.swift"
+            timestampString = "570387023.9758461"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "loadData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iBach/Classes/Modules/Playlists/PlaylistsTableViewController.swift"
+            timestampString = "570387023.976043"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "loadData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iBach/Supporting Files/AppDelegate.swift"
+            timestampString = "570387023.976202"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "application(_:open:sourceApplication:annotation:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iBach/Supporting Files/AppDelegate.swift"
+            timestampString = "570387023.9763269"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "application(_:open:sourceApplication:annotation:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
